@@ -1,0 +1,21 @@
+{
+  "name": "itp405-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "lowdb": "^1.0.0",
+    "ws": "^7.2.1"
+  }
+}
